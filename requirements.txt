@@ -1,4 +1,4 @@
-torch==1.9.0
+torch
 requests
 numpy
 scikit-learn
