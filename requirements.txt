@@ -6,5 +6,4 @@ nltk
 schedule
 streamlit
 tabulate
-transformers==3.5.1
-
+transformers==4.11.3  # Replace with the version you want to pin
