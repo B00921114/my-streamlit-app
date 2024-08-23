@@ -6,4 +6,5 @@ nltk
 schedule
 streamlit
 tabulate
-transformers==4.2.2  # Or your preferred version
+transformers==3.5.1
+
