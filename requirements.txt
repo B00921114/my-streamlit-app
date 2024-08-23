@@ -6,4 +6,5 @@ nltk
 schedule
 streamlit
 tabulate
-transformers==4.2.2  # Or any other version that fits your needs
+transformers==4.2.2  # Or your preferred version
+https://github.com/huggingface/tokenizers/releases/download/v0.10.3/tokenizers-0.10.3-cp37-cp37m-manylinux2014_x86_64.whl
