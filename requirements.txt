@@ -7,5 +7,5 @@ schedule
 streamlit
 tabulate
 transformers==4.10.0
-
+tokenizers==0.10.3
 
