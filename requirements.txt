@@ -6,8 +6,9 @@ nltk
 schedule
 streamlit
 tabulate
-transformers==4.7.0
-tokenizers==0.10.2
+transformers==4.8.2
+tokenizers==0.10.3
+
 
 
 
