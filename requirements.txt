@@ -7,4 +7,5 @@ nltk
 schedule
 streamlit
 tabulate
-tokenizers==0.10.3
+tokenizers>=0.11.3
+
