@@ -1,4 +1,4 @@
-torch==2.4.0
+torch==2.0.0
 requests
 numpy
 scikit-learn
@@ -7,8 +7,4 @@ schedule
 streamlit
 tabulate
 transformers==4.2.0
-
-
-
-
-
+tokenizers==0.10.3
